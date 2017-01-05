@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='1s1.JPG'>
+    <box top='28' left='65' width='117' height='110'/>
+  </image>
+  <image file='1s2.jpg'>
+    <box top='292' left='253' width='127' height='108'/>
+  </image>
+  <image file='1s3.JPG'>
+    <box top='24' left='150' width='100' height='91'/>
+  </image>
+  <image file='1s4.jpg'>
+    <box top='308' left='249' width='99' height='85'/>
+  </image>
+  <image file='1s5.JPG'>
+    <box top='24' left='59' width='95' height='89'/>
+    <box top='266' left='291' width='65' height='58'/>
+  </image>
+  <image file='1s6.JPG'>
+    <box top='24' left='245' width='109' height='108'/>
+  </image>
+  <image file='1u1.JPG'>
+    <box top='267' left='102' width='133' height='127'/>
+  </image>
+  <image file='1u2.jpg'>
+    <box top='266' left='282' width='104' height='93'/>
+  </image>
+  <image file='1u3.JPG'>
+    <box top='274' left='26' width='116' height='121'/>
+  </image>
+  <image file='1u4.jpg'>
+    <box top='273' left='270' width='118' height='127'/>
+  </image>
+  <image file='1u5.JPG'>
+    <box top='266' left='293' width='125' height='128'/>
+  </image>
+  <image file='1u6.JPG'>
+    <box top='27' left='216' width='158' height='135'/>
+  </image>
+  <image file='2s1.JPG'>
+    <box top='8' left='247' width='122' height='108'/>
+  </image>
+  <image file='2s2.jpg'>
+    <box top='292' left='263' width='118' height='106'/>
+  </image>
+  <image file='2s3.JPG'>
+    <box top='269' left='280' width='116' height='126'/>
+  </image>
+  <image file='2s4.jpg'>
+    <box top='15' left='51' width='139' height='72'/>
+    <box top='86' left='189' width='1' height='1'/>
+  </image>
+  <image file='2s5.JPG'>
+    <box top='17' left='68' width='302' height='100'/>
+  </image>
+  <image file='2s6.JPG'>
+    <box top='18' left='191' width='218' height='117'/>
+  </image>
+  <image file='2u1.JPG'>
+    <box top='287' left='187' width='155' height='120'/>
+  </image>
+  <image file='2u2.jpg'>
+    <box top='287' left='59' width='127' height='121'/>
+  </image>
+  <image file='2u3.JPG'>
+    <box top='263' left='277' width='121' height='140'/>
+  </image>
+  <image file='2u4.jpg'>
+    <box top='303' left='208' width='143' height='103'/>
+  </image>
+  <image file='2u5.JPG'>
+    <box top='280' left='217' width='130' height='128'/>
+  </image>
+  <image file='2u6.JPG'>
+    <box top='23' left='233' width='183' height='99'/>
+  </image>
+  <image file='3s1.JPG'>
+    <box top='3' left='277' width='155' height='103'/>
+  </image>
+  <image file='3s2.jpg'>
+    <box top='272' left='260' width='137' height='125'/>
+  </image>
+  <image file='3s3.JPG'>
+    <box top='22' left='211' width='143' height='107'/>
+  </image>
+  <image file='3s4.jpg'>
+    <box top='328' left='399' width='109' height='75'/>
+    <box top='344' left='265' width='104' height='65'/>
+  </image>
+  <image file='3s5.JPG'>
+    <box top='18' left='162' width='202' height='81'/>
+    <box top='318' left='266' width='97' height='55'/>
+  </image>
+  <image file='3s6.JPG'>
+    <box top='32' left='252' width='150' height='112'/>
+  </image>
+</images>
+</dataset>
