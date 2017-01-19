@@ -10,7 +10,7 @@ class patch:
     def makePatch(self, image, patch_size):
         """パッチ作成
         @ param1[in] image              入力画像
-        @ param2[in] patch_size         パッチサイズ
+        @ param2[in] patch_size         パッチサイズ(例：20x20なら10を指定)
         @ param[out] patch_list(list)   パッチリスト
 
         """
