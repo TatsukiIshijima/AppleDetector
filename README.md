@@ -3,13 +3,13 @@ Apple detect used by Texture feature
 
 ## Demo  
 *Preparation*    
-
+Move apple images and non apple images to apples directory.  
 
 *Step1  Create patch xml file*  
 Specify apple region and non apple region used imglab.  
-Create applePatch.xml and nonapplePath.xml. 
+Create applePatch.xml and nonapplePath.xml. (This xml file set in apples directory)
 
-*Step2* 
+*Step2 Extract feature*    
 
 ## Requirement  
 1. Python3(Anaconda)  
