@@ -24,6 +24,13 @@ Run this command
 xxx.csv is created file in step2.  
 train model is saved in trainModel directory.  
 
+**Step4 Detect apple**  
+Run this command  
+*python detector.py xxx.model xxx.jpg size*  
+xxx.model is created file in step3.  
+xxx.jpg is test image.  
+size is patch size.  
+
 ## Requirement  
 1. Python3(Anaconda)  
 2. dlib + imglab  
