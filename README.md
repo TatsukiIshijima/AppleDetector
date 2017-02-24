@@ -16,8 +16,13 @@ image_dir is an apple images directory.
 xxx.xml is created file in step1.  
 Feature is saved at xxx.csv. File name is arbitrarily.  
 Lable is 0 or 1  
+After Created True feature and False feature, These file connected used Excel etc (add row).  
 
 **Step3 Train feature**  
+Run this command  
+*python train.py xxx.csv*  
+xxx.csv is created file in step2.  
+train model is saved in trainModel directory.  
 
 ## Requirement  
 1. Python3(Anaconda)  
