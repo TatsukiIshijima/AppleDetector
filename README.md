@@ -2,16 +2,21 @@
 Apple detect used by Texture feature
 
 ## Demo  
-Step1  Feature Extract
+Preparation  
 
 
+Step1  Create patch xml file  
+    Specify apple region and non apple region used imglab.  
+    Create applePatch.xml and nonapplePath.xml. 
+
+Step2 
 
 ## Requirement  
-1. Python3  
+1. Python3(Anaconda)  
 2. dlib + imglab  
 3. OpenCV2 or OpenCV3  
-4. Numpy
-5. Scikit-Learn
-6. Scikit-Image
-7. matplot
-8. BeautifulSoup
+4. Numpy(Anaconda)  
+5. Scikit-Learn(Anaconda)  
+6. Scikit-Image(Anaconda)  
+7. matplot(Anaconda)  
+8. BeautifulSoup(Anaconda)  
